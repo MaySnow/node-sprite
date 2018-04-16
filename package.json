@@ -1,0 +1,29 @@
+{
+  "name": "node-sprite",
+  "version": "1.0.0",
+  "description": "create sprite image and css by node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sprite": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaySnow/node-sprite.git"
+  },
+  "keywords": [
+    "node",
+    "sprite"
+  ],
+  "author": "may",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaySnow/node-sprite/issues"
+  },
+  "homepage": "https://github.com/MaySnow/node-sprite#readme",
+  "devDependencies": {
+    "absurd": "^0.3.9",
+    "create-html": "^4.1.0",
+    "spritesmith": "^3.3.0"
+  }
+}
