@@ -1,7 +1,7 @@
 # node-sprite
 create sprite image and css by node
 
-## 使用
+### 使用
 
 ```
 npm install
@@ -21,9 +21,9 @@ npm run sprite invite-share-icon invite
 npm run sprite loading-icon loading top-down false
 ```
 
-可以打开 sprite/dist子文件下的inde.html 查看生成的图片和class
+可以打开 sprite/dist子文件下的index.html 查看生成的图片和class
 
-## 具体参数参考如下：
+### 具体参数参考如下：
 
 1、[spritesmith](https://github.com/Ensighten/spritesmith)
 
